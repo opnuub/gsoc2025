@@ -1,6 +1,6 @@
 Word segmentation goes from sequential to functional
 =====================
-Author: **[Shenghong](https://github.com/opnuub)** 
+Author: **[Shenghong](https://github.com/opnuub)** \
 Mentors: **[Shane](https://github.com/sffc)**, **[Sahand](https://github.com/SahandFarhoodi)**
 
 # Introduction
@@ -32,7 +32,7 @@ Utilising Google Cloud Platform, the pipeline eases the model training and evalu
 
 ## Convolutional Neural Networks for Thai
 
-<img src="Figures/cnn.jpg"  width="50%"/>
+<img src="Figures/cnn.jpg"  width="30%"/>
 
 The convolutional neural network (CNN) architecture developed in this project achieved faster inference speeds with comparable accuracy for Thai. Not only was the linear time complexity issue resolved, the usage of dilated convolutions also helped maintain a high level of accuracy by capturing a wider context of the surrounding words.
 
