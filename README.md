@@ -82,13 +82,15 @@ Relative to BudouX’s n-gram model, the new radical-based AdaBoost model reache
 |----------|:--------:|:---------:|
 | BudouX  | 86.27  | 64 KB  |
 | Radical-based  | 85.82  | 31 KB  |
+| ICU | 89.46 | 2 MB |
 
 **UDCantonese Dataset (zh-hk)**
 | Model | F1-Score | Model Size |
 |----------|:--------:|:---------:|
 | BudouX  | 73.51  | 64 KB  |
 | Radical-based  | 89.76  | 31 KB  |
-| PyCantonese (Dictionary)  | 94.98  | 1.3 MB  |
+| [PyCantonese](https://github.com/jacksonllee/pycantonese) | 94.98  | 1.3 MB  |
+| ICU | 79.14 | 2 MB |
 
 ### Examples
 
