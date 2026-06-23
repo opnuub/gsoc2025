@@ -1,6 +1,6 @@
 Word segmentation goes from sequential to functional
 =====================
-Author: **[Shenghong](https://github.com/opnuub)** \
+Author: **[Zhiyi](https://github.com/opnuub)** \
 Mentors: **[Shane](https://github.com/sffc)**, **[Sahand](https://github.com/SahandFarhoodi)**
 
 # Introduction
